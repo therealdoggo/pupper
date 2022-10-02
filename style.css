@@ -1,0 +1,111 @@
+#puppy {
+text-align: center;
+width: 525px;
+height: 690px;
+margin: 10px;
+box-shadow: inset;
+margin-right: 50px;
+display: flex;
+justify-content: center;
+}
+#buttons {
+display: flex;
+justify-content:center;
+margin: -200px;
+}
+#btn1 {
+margin-left: 100px;
+margin-right:100px;
+border-radius:50%;
+background-color: aqua;
+border-color: aqua;
+text-align: center;
+padding: 7.5px;
+font-weight: bold;
+}
+#btn2 {
+margin-left: 100px;
+margin-right:100px;
+border-radius:50%;
+background-color: aqua;
+border-color: aqua;
+text-align: center;
+padding: 7.5px;
+font-weight: bold;
+}
+#btn3 {
+margin-left: 100px;
+margin-right:100px;
+border-radius:50%;
+background-color: aqua;
+border-color: aqua;
+text-align: center;
+padding: 7.5px;
+font-weight: bold;
+}
+#btn4 {
+margin-left: 100px;
+margin-right:100px;
+border-radius:50%;
+background-color: aqua;
+border-color: aqua;
+text-align: center;
+padding: 7.5px;
+font-weight: bold;
+}
+#buttons2 {
+display: flex;
+justify-content:center;
+margin-top:200px;
+}
+#btn5 {
+margin-left: 100px;
+margin-right:100px;
+border-radius:50%;
+background-color: aqua;
+border-color: aqua;
+text-align: center;
+padding: 7.5px;
+font-weight: bold;
+}
+#btn6 {
+margin-left: 100px;
+margin-right:100px;
+border-radius:50%;
+background-color: aqua;
+border-color: aqua;
+text-align: center;
+padding: 7.5px;
+font-weight: bold;
+}
+#btn7 {
+margin-left: 100px;
+margin-right:100px;
+border-radius:50%;
+background-color: aqua;
+border-color: aqua;
+text-align: center;
+padding: 7.5px;
+font-weight: bold;
+}
+#btn8 {
+margin-left: 100px;
+margin-right:100px;
+border-radius:50%;
+background-color: aqua;
+border-color: aqua;
+text-align: center;
+padding: 15px;
+font-weight: bold;
+font-size: x-small;
+}
+#eggdiv {
+margin: 0px;
+width: 1%;
+height: 1%
+}
+#egg {
+width:10px;
+height: 10px;
+margin-top: 200px;
+}
